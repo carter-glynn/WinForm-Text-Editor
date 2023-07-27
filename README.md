@@ -1,4 +1,4 @@
-# Exam 2 <br>
+# Text Editor <br>
 ## Goal <br>
  - User Multiple-Documents Interface to create a text editor in WinForms
  - Encourage use of usability principles and how they relate to user interface
